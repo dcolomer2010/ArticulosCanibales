@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6350 64-bit) (preloaded format=pdflatex 2018.1.31)  19 OCT 2018 11:17
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6350 64-bit) (preloaded format=pdflatex 2018.1.31)  6 NOV 2018 12:49
 entering extended mode
 **./2018-1019-ArticuloPrueba.tex
 (2018-1019-ArticuloPrueba.tex
@@ -6,8 +6,8 @@ LaTeX2e <2017-04-15>
 Babel <3.10> and hyphenation patterns for 75 language(s) loaded.
 ("C:\Program Files\MiKTeX 2.9\tex\latex\base\article.cls"
 Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
-("C:\Program Files\MiKTeX 2.9\tex\latex\base\size10.clo"
-File: size10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\size12.clo"
+File: size12.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
 )
 \c@part=\count79
 \c@section=\count80
@@ -494,8 +494,201 @@ Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 \Gm@dimlist=\toks23
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\geometry\geometry.cfg"))
-("C:\Program Files\MiKTeX 2.9\tex\latex\bera\beramono.sty"
-Package: beramono 2004/01/31 (WaS)
+("C:\Program Files\MiKTeX 2.9\tex\latex\cormorantgaramond\CormorantGaramond.sty
+"
+Package: CormorantGaramond 2016/08/15 (Bob Tennent and autoinst) Style file for
+ Cormorant Garamond fonts.
+ ("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifluatex.sty"
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\xkeyval\xkeyval.sty"
+Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\xkeyval\xkeyval.tex"
+("C:\Program Files\MiKTeX 2.9\tex\generic\xkeyval\xkvutils.tex"
+\XKV@toks=\toks24
+\XKV@tempa@toks=\toks25
+)
+\XKV@depth=\count105
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+))
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\textcomp.sty"
+Package: textcomp 2017/04/05 v2.0i Standard LaTeX package
+Package textcomp Info: Sub-encoding information:
+(textcomp)               5 = only ISO-Adobe without \textcurrency
+(textcomp)               4 = 5 + \texteuro
+(textcomp)               3 = 4 + \textohm
+(textcomp)               2 = 3 + \textestimated + \textcurrency
+(textcomp)               1 = TS1 - \textcircled - \t
+(textcomp)               0 = TS1 (full)
+(textcomp)             Font families with sub-encoding setting implement
+(textcomp)             only a restricted character set as indicated.
+(textcomp)             Family '?' is the default used for unknown fonts.
+(textcomp)             See the documentation for details.
+Package textcomp Info: Setting ? sub-encoding to TS1/1 on input line 79.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\ts1enc.def"
+File: ts1enc.def 2001/06/05 v3.0e (jk/car/fm) Standard LaTeX file
+Now handling font encoding TS1 ...
+... processing UTF-8 mapping file for font encoding TS1
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\ts1enc.dfu"
+File: ts1enc.dfu 2017/01/28 v1.1t UTF-8 support for inputenc
+   defining Unicode char U+00A2 (decimal 162)
+   defining Unicode char U+00A3 (decimal 163)
+   defining Unicode char U+00A4 (decimal 164)
+   defining Unicode char U+00A5 (decimal 165)
+   defining Unicode char U+00A6 (decimal 166)
+   defining Unicode char U+00A7 (decimal 167)
+   defining Unicode char U+00A8 (decimal 168)
+   defining Unicode char U+00A9 (decimal 169)
+   defining Unicode char U+00AA (decimal 170)
+   defining Unicode char U+00AC (decimal 172)
+   defining Unicode char U+00AE (decimal 174)
+   defining Unicode char U+00AF (decimal 175)
+   defining Unicode char U+00B0 (decimal 176)
+   defining Unicode char U+00B1 (decimal 177)
+   defining Unicode char U+00B2 (decimal 178)
+   defining Unicode char U+00B3 (decimal 179)
+   defining Unicode char U+00B4 (decimal 180)
+   defining Unicode char U+00B5 (decimal 181)
+   defining Unicode char U+00B6 (decimal 182)
+   defining Unicode char U+00B7 (decimal 183)
+   defining Unicode char U+00B9 (decimal 185)
+   defining Unicode char U+00BA (decimal 186)
+   defining Unicode char U+00BC (decimal 188)
+   defining Unicode char U+00BD (decimal 189)
+   defining Unicode char U+00BE (decimal 190)
+   defining Unicode char U+00D7 (decimal 215)
+   defining Unicode char U+00F7 (decimal 247)
+   defining Unicode char U+0192 (decimal 402)
+   defining Unicode char U+02C7 (decimal 711)
+   defining Unicode char U+02D8 (decimal 728)
+   defining Unicode char U+02DD (decimal 733)
+   defining Unicode char U+0E3F (decimal 3647)
+   defining Unicode char U+2016 (decimal 8214)
+   defining Unicode char U+2020 (decimal 8224)
+   defining Unicode char U+2021 (decimal 8225)
+   defining Unicode char U+2022 (decimal 8226)
+   defining Unicode char U+2030 (decimal 8240)
+   defining Unicode char U+2031 (decimal 8241)
+   defining Unicode char U+203B (decimal 8251)
+   defining Unicode char U+203D (decimal 8253)
+   defining Unicode char U+2044 (decimal 8260)
+   defining Unicode char U+204E (decimal 8270)
+   defining Unicode char U+2052 (decimal 8274)
+   defining Unicode char U+20A1 (decimal 8353)
+   defining Unicode char U+20A4 (decimal 8356)
+   defining Unicode char U+20A6 (decimal 8358)
+   defining Unicode char U+20A9 (decimal 8361)
+   defining Unicode char U+20AB (decimal 8363)
+   defining Unicode char U+20AC (decimal 8364)
+   defining Unicode char U+20B1 (decimal 8369)
+   defining Unicode char U+2103 (decimal 8451)
+   defining Unicode char U+2116 (decimal 8470)
+   defining Unicode char U+2117 (decimal 8471)
+   defining Unicode char U+211E (decimal 8478)
+   defining Unicode char U+2120 (decimal 8480)
+   defining Unicode char U+2122 (decimal 8482)
+   defining Unicode char U+2126 (decimal 8486)
+   defining Unicode char U+2127 (decimal 8487)
+   defining Unicode char U+212E (decimal 8494)
+   defining Unicode char U+2190 (decimal 8592)
+   defining Unicode char U+2191 (decimal 8593)
+   defining Unicode char U+2192 (decimal 8594)
+   defining Unicode char U+2193 (decimal 8595)
+   defining Unicode char U+2329 (decimal 9001)
+   defining Unicode char U+232A (decimal 9002)
+   defining Unicode char U+2422 (decimal 9250)
+   defining Unicode char U+25E6 (decimal 9702)
+   defining Unicode char U+25EF (decimal 9711)
+   defining Unicode char U+266A (decimal 9834)
+))
+LaTeX Info: Redefining \oldstylenums on input line 334.
+Package textcomp Info: Setting cmr sub-encoding to TS1/0 on input line 349.
+Package textcomp Info: Setting cmss sub-encoding to TS1/0 on input line 350.
+Package textcomp Info: Setting cmtt sub-encoding to TS1/0 on input line 351.
+Package textcomp Info: Setting cmvtt sub-encoding to TS1/0 on input line 352.
+Package textcomp Info: Setting cmbr sub-encoding to TS1/0 on input line 353.
+Package textcomp Info: Setting cmtl sub-encoding to TS1/0 on input line 354.
+Package textcomp Info: Setting ccr sub-encoding to TS1/0 on input line 355.
+Package textcomp Info: Setting ptm sub-encoding to TS1/4 on input line 356.
+Package textcomp Info: Setting pcr sub-encoding to TS1/4 on input line 357.
+Package textcomp Info: Setting phv sub-encoding to TS1/4 on input line 358.
+Package textcomp Info: Setting ppl sub-encoding to TS1/3 on input line 359.
+Package textcomp Info: Setting pag sub-encoding to TS1/4 on input line 360.
+Package textcomp Info: Setting pbk sub-encoding to TS1/4 on input line 361.
+Package textcomp Info: Setting pnc sub-encoding to TS1/4 on input line 362.
+Package textcomp Info: Setting pzc sub-encoding to TS1/4 on input line 363.
+Package textcomp Info: Setting bch sub-encoding to TS1/4 on input line 364.
+Package textcomp Info: Setting put sub-encoding to TS1/5 on input line 365.
+Package textcomp Info: Setting uag sub-encoding to TS1/5 on input line 366.
+Package textcomp Info: Setting ugq sub-encoding to TS1/5 on input line 367.
+Package textcomp Info: Setting ul8 sub-encoding to TS1/4 on input line 368.
+Package textcomp Info: Setting ul9 sub-encoding to TS1/4 on input line 369.
+Package textcomp Info: Setting augie sub-encoding to TS1/5 on input line 370.
+Package textcomp Info: Setting dayrom sub-encoding to TS1/3 on input line 371.
+Package textcomp Info: Setting dayroms sub-encoding to TS1/3 on input line 372.
+
+Package textcomp Info: Setting pxr sub-encoding to TS1/0 on input line 373.
+Package textcomp Info: Setting pxss sub-encoding to TS1/0 on input line 374.
+Package textcomp Info: Setting pxtt sub-encoding to TS1/0 on input line 375.
+Package textcomp Info: Setting txr sub-encoding to TS1/0 on input line 376.
+Package textcomp Info: Setting txss sub-encoding to TS1/0 on input line 377.
+Package textcomp Info: Setting txtt sub-encoding to TS1/0 on input line 378.
+Package textcomp Info: Setting lmr sub-encoding to TS1/0 on input line 379.
+Package textcomp Info: Setting lmdh sub-encoding to TS1/0 on input line 380.
+Package textcomp Info: Setting lmss sub-encoding to TS1/0 on input line 381.
+Package textcomp Info: Setting lmssq sub-encoding to TS1/0 on input line 382.
+Package textcomp Info: Setting lmvtt sub-encoding to TS1/0 on input line 383.
+Package textcomp Info: Setting lmtt sub-encoding to TS1/0 on input line 384.
+Package textcomp Info: Setting qhv sub-encoding to TS1/0 on input line 385.
+Package textcomp Info: Setting qag sub-encoding to TS1/0 on input line 386.
+Package textcomp Info: Setting qbk sub-encoding to TS1/0 on input line 387.
+Package textcomp Info: Setting qcr sub-encoding to TS1/0 on input line 388.
+Package textcomp Info: Setting qcs sub-encoding to TS1/0 on input line 389.
+Package textcomp Info: Setting qpl sub-encoding to TS1/0 on input line 390.
+Package textcomp Info: Setting qtm sub-encoding to TS1/0 on input line 391.
+Package textcomp Info: Setting qzc sub-encoding to TS1/0 on input line 392.
+Package textcomp Info: Setting qhvc sub-encoding to TS1/0 on input line 393.
+Package textcomp Info: Setting futs sub-encoding to TS1/4 on input line 394.
+Package textcomp Info: Setting futx sub-encoding to TS1/4 on input line 395.
+Package textcomp Info: Setting futj sub-encoding to TS1/4 on input line 396.
+Package textcomp Info: Setting hlh sub-encoding to TS1/3 on input line 397.
+Package textcomp Info: Setting hls sub-encoding to TS1/3 on input line 398.
+Package textcomp Info: Setting hlst sub-encoding to TS1/3 on input line 399.
+Package textcomp Info: Setting hlct sub-encoding to TS1/5 on input line 400.
+Package textcomp Info: Setting hlx sub-encoding to TS1/5 on input line 401.
+Package textcomp Info: Setting hlce sub-encoding to TS1/5 on input line 402.
+Package textcomp Info: Setting hlcn sub-encoding to TS1/5 on input line 403.
+Package textcomp Info: Setting hlcw sub-encoding to TS1/5 on input line 404.
+Package textcomp Info: Setting hlcf sub-encoding to TS1/5 on input line 405.
+Package textcomp Info: Setting pplx sub-encoding to TS1/3 on input line 406.
+Package textcomp Info: Setting pplj sub-encoding to TS1/3 on input line 407.
+Package textcomp Info: Setting ptmx sub-encoding to TS1/4 on input line 408.
+Package textcomp Info: Setting ptmj sub-encoding to TS1/4 on input line 409.
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\fontenc.sty"
+Package: fontenc 2017/04/05 v2.0i Standard LaTeX package
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\fontaxes\fontaxes.sty"
+Package: fontaxes 2014/03/23 v1.0d Font selection axes
+LaTeX Info: Redefining \upshape on input line 29.
+LaTeX Info: Redefining \itshape on input line 31.
+LaTeX Info: Redefining \slshape on input line 33.
+LaTeX Info: Redefining \scshape on input line 37.
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\mweights\mweights.sty"
+Package: mweights 2017/03/30 (Bob Tennent) Support package for multiple-weight 
+font packages. 
+LaTeX Info: Redefining \bfseries on input line 22.
+LaTeX Info: Redefining \mdseries on input line 30.
+LaTeX Info: Redefining \rmfamily on input line 38.
+LaTeX Info: Redefining \sffamily on input line 66.
+LaTeX Info: Redefining \ttfamily on input line 94.
+)
+LaTeX Info: Redefining \oldstylenums on input line 164.
 )
 ("C:\Program Files\MiKTeX 2.9\tex\latex\base\fontenc.sty"
 Package: fontenc 2017/04/05 v2.0i Standard LaTeX package
@@ -510,48 +703,52 @@ LaTeX Info: Redefining \% on input line 6.
 )
 \openout1 = `2018-1019-ArticuloPrueba.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Try loading font information for T1+fvm on input line 18.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 20.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 20.
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\bera\t1fvm.fd"
-File: t1fvm.fd 2004/09/07 scalable font definitions for T1/fvm.
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\ts1cmr.fd"
+File: ts1cmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
-LaTeX Font Info:    Font shape `T1/fvm/m/n' will be
-(Font)              scaled to size 8.99994pt on input line 18.
-LaTeX Info: Redefining \. on input line 18.
-LaTeX Info: Redefining \% on input line 18.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Try loading font information for T1+CormorantGaramond-LF on
+ input line 20.
 
-("C:\Program Files\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
+("C:\Program Files\MiKTeX 2.9\tex\latex\cormorantgaramond\t1cormorantgaramond-l
+f.fd"
+File: T1CormorantGaramond-LF.fd 2016/08/15 (autoinst) Font definitions for T1/C
+ormorantGaramond-LF.
+)
+LaTeX Font Info:    Font shape `T1/CormorantGaramond-LF/m/n' will be
+(Font)              scaled to size 12.0pt on input line 20.
+LaTeX Info: Redefining \. on input line 20.
+LaTeX Info: Redefining \% on input line 20.
+ ("C:\Program Files\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count105
+\scratchcounter=\count106
 \scratchdimen=\dimen123
 \scratchbox=\box28
-\nofMPsegments=\count106
-\nofMParguments=\count107
-\everyMPshowfont=\toks24
-\MPscratchCnt=\count108
+\nofMPsegments=\count107
+\nofMParguments=\count108
+\everyMPshowfont=\toks26
+\MPscratchCnt=\count109
 \MPscratchDim=\dimen124
-\MPnumerator=\count109
-\makeMPintoPDFobject=\count110
-\everyMPtoPDFconversion=\toks25
+\MPnumerator=\count110
+\makeMPintoPDFobject=\count111
+\everyMPtoPDFconversion=\toks27
 ) ("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\pdftexcmds.sty"
 Package: pdftexcmds 2017/03/19 v0.25 Utility functions of pdfTeX for LuaTeX (HO
-)
-
-("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifluatex.sty"
-Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
-Package ifluatex Info: LuaTeX not detected.
 )
 Package pdftexcmds Info: LuaTeX not detected.
 Package pdftexcmds Info: \pdf@primitive is available.
@@ -606,12 +803,12 @@ G,.JBIG2,.JB2,.eps]
 * \topmargin=-23.91173pt
 * \headheight=12.0pt
 * \headsep=25.0pt
-* \topskip=10.0pt
+* \topskip=12.0pt
 * \footskip=30.0pt
 * \marginparwidth=48.0pt
 * \marginparsep=10.0pt
 * \columnsep=10.0pt
-* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
 * \hoffset=0.0pt
 * \voffset=0.0pt
 * \mag=1000
@@ -621,388 +818,46 @@ G,.JBIG2,.JB2,.eps]
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-LaTeX Font Info:    Font shape `T1/fvm/m/n' will be
-(Font)              scaled to size 15.55188pt on input line 19.
-LaTeX Font Info:    Font shape `T1/fvm/m/n' will be
-(Font)              scaled to size 10.79993pt on input line 19.
-LaTeX Font Info:    Try loading font information for U+msa on input line 19.
+\c@mv@tabular=\count112
+\c@mv@boldtabular=\count113
+LaTeX Font Info:    Font shape `T1/CormorantGaramond-LF/m/n' will be
+(Font)              scaled to size 20.74pt on input line 21.
+LaTeX Font Info:    Font shape `T1/CormorantGaramond-LF/m/n' will be
+(Font)              scaled to size 14.4pt on input line 21.
+LaTeX Font Info:    Try loading font information for U+msa on input line 21.
 ("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd"
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 19.
+LaTeX Font Info:    Try loading font information for U+msb on input line 21.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd"
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-Underfull \hbox (badness 10000) in paragraph at lines 21--22
-[]\T1/fvm/m/n/10 El día comenzó como cualquier otro día
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 21--22
-\T1/fvm/m/n/10 anodino y repetitivo. Una taza de café
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 21--22
-\T1/fvm/m/n/10 recalentado del día anterior y un par de
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 21--22
-\T1/fvm/m/n/10 magdalenas y la misma música de siempre
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 23--24
-[]\T1/fvm/m/n/10 La cámara lista junto con la libreta y el
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 23--24
-\T1/fvm/m/n/10 lápiz que me acompañan siempre no desentonaban
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 23--24
-\T1/fvm/m/n/10 en esta rutina de dirigirme al destino de ese
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 25--26
-[]\T1/fvm/m/n/10 Hoy hay una cosa distinta en el coche.
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 25--26
-\T1/fvm/m/n/10 Reluciente puedo ver mi casco con la palabra
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 25--26
-\T1/fvm/m/n/10 ``PRESS'' resaltando en blanco sobre el azul
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 25--26
-\T1/fvm/m/n/10 océano del casco. Como cualquier niño con
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 25--26
-\T1/fvm/m/n/10 zapatos nuevos no puedo aguantarme y me lo
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 25--26
-\T1/fvm/m/n/10 pongo tras depositar la mochila en el asiento
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 27--28
-[]\T1/fvm/m/n/10 Un vecino entra en ese momento en el garaje
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 27--28
-\T1/fvm/m/n/10 y me saluda con una sonrisa cómplice. Otra
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 27--28
-\T1/fvm/m/n/10 excentricidad más a incluir en mi curriculum
- []
-
-LaTeX Font Info:    Font shape `T1/fvm/m/n' will be
-(Font)              scaled to size 6.29996pt on input line 29.
-LaTeX Font Info:    Font shape `T1/fvm/m/n' will be
-(Font)              scaled to size 7.19995pt on input line 29.
-LaTeX Font Info:    Font shape `T1/fvm/m/n' will be
-(Font)              scaled to size 5.39996pt on input line 29.
-
-Underfull \hbox (badness 10000) in paragraph at lines 29--30
-[]\T1/fvm/m/n/10 La carretera está despejada y el viaje es
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 29--30
-\T1/fvm/m/n/10 anodino. Me dirijo a las instalaciones de
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 29--30
-\T1/fvm/m/n/10 pruebas y entrenamiento de HCA[]. Hoy tienen
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 29--30
-\T1/fvm/m/n/10 preparada una sesión para que aprenda a
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 33--34
-[]\T1/fvm/m/n/10 Puede que el avisado lector comprenda ya
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 33--34
-\T1/fvm/m/n/10 que este que les escribe es un periodista
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 33--34
-\T1/fvm/m/n/10 empotrado. Alguien que debe aprender a
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 33--34
-\T1/fvm/m/n/10 moverse con unidades en mitad ``del jaleo'' y
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 33--34
-\T1/fvm/m/n/10 no entorpecer ni incrementar el riesgo (propio
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 37--38
-[]\T1/fvm/m/n/10 Estos chicos con los que voy a compartir
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 37--38
-\T1/fvm/m/n/10 experiencias son como usted o como yo,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 37--38
-\T1/fvm/m/n/10 pero con la particularidad de saber que
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 37--38
-\T1/fvm/m/n/10 hacer cuando los demás perdemos la calma y
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 37--38
-\T1/fvm/m/n/10 el control. No son superhombres, pero sus
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 37--38
-\T1/fvm/m/n/10 capacidades y habilidades entrenadas hacen que
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 37--38
-\T1/fvm/m/n/10 sean capaces de responder en situaciones en
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 39--40
-[]\T1/fvm/m/n/10 La sesión comienza con una charla
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 39--40
-\T1/fvm/m/n/10 introductoria sobre los objetivos que deben
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 39--40
-\T1/fvm/m/n/10 cubrirse en la sesión. No hay margen para la
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 39--40
-\T1/fvm/m/n/10 improvisación. El responsable al mando, el TL,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 39--40
-\T1/fvm/m/n/10 nos explica que es lo que estamos buscando:
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 41--42
-[]\T1/fvm/m/n/10 Las caras de los más veteranos muestran
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 41--42
-\T1/fvm/m/n/10 el gesto de quién sabe que como decía el
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 41--42
-\T1/fvm/m/n/10 General Patton, ``no hay plan que aguante el
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 41--42
-\T1/fvm/m/n/10 primer disparo''. Los más jóvenes están tan
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 41--42
-\T1/fvm/m/n/10 atentos como yo para no perderse la más mínima
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 43--44
-[]\T1/fvm/m/n/10 He estado tomando notas, o al menos eso es
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 43--44
-\T1/fvm/m/n/10 lo que creía. Cuando releo lo apuntado aquello
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 43--44
-\T1/fvm/m/n/10 no tiene el más mínimo sentido: flanco,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 43--44
-\T1/fvm/m/n/10 retaguardia, voz de alerta, canal, radio,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 45--46
-[]\T1/fvm/m/n/10 Algo me queda claro: soy en este momento una
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 45--46
-\T1/fvm/m/n/10 clase de apestado. Un elemento incómodo que no
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 45--46
-\T1/fvm/m/n/10 saben como manejar. Un veterano me indica que
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 45--46
-\T1/fvm/m/n/10 ``tu conmigo'' con un tono de voz que no me da
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 47--48
-[]\T1/fvm/m/n/10 El sol está más alto, pero no me calienta.
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 47--48
-\T1/fvm/m/n/10 Sin embargo estoy sudando, un efecto
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 47--48
-\T1/fvm/m/n/10 secundario de la gran cantidad de adrenalina
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 47--48
-\T1/fvm/m/n/10 que está en este momento recorriendo mis
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 49--50
-[]\T1/fvm/m/n/10 Mi cámara se contrapone a los fusiles de
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 49--50
-\T1/fvm/m/n/10 asalto. En una suerte de competencia fálica
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 49--50
-\T1/fvm/m/n/10 siento que la cámara no es lo suficientemente
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 49--50
-\T1/fvm/m/n/10 ``grande''. Me siento desnudo. Aprieto la rosca
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 49--50
-\T1/fvm/m/n/10 del objetivo, la montura, como buscado que
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 49--50
-\T1/fvm/m/n/10 crezca, entoces aprecio que ninguno está
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 49--50
-\T1/fvm/m/n/10 tocando su arma. Estas cuelgan a plomo desde
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 49--50
-\T1/fvm/m/n/10 unas correas, no a la espalda como en aquellas
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 49--50
-\T1/fvm/m/n/10 películas de la sobremesa del sábado. Me
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 51--52
-[]\T1/fvm/m/n/10 Describir la cantidad de peso que estos
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 51--52
-\T1/fvm/m/n/10 seguidores de Marte portan es otra tarea
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 51--52
-\T1/fvm/m/n/10 difícil. Términos como ``molle'', ``pouch'',
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 51--52
-\T1/fvm/m/n/10 ``hop'', ``efepeeses'' y similares salen de su
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 51--52
-\T1/fvm/m/n/10 boca como entiendo que ``isos'', ``diafragmas'',
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 51--52
-\T1/fvm/m/n/10 ``exposición'' deben de salir de la mia. Procuro
- []
-
-[1{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}
-
-
-]
-(2018-1019-ArticuloPrueba.aux
+LaTeX Font Info:    Font shape `T1/CormorantGaramond-LF/m/n' will be
+(Font)              scaled to size 8.0pt on input line 31.
+LaTeX Font Info:    Font shape `T1/CormorantGaramond-LF/m/n' will be
+(Font)              scaled to size 10.0pt on input line 31.
+LaTeX Font Info:    Font shape `T1/CormorantGaramond-LF/m/n' will be
+(Font)              scaled to size 7.0pt on input line 31.
+ [1{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}
+
+
+] (2018-1019-ArticuloPrueba.aux
 LaTeX Info: Redefining \. on input line 6.
 LaTeX Info: Redefining \% on input line 6.
 ) ) 
 Here is how much of TeX's memory you used:
- 4277 strings out of 493323
- 54071 string characters out of 3139042
- 130549 words of memory out of 3000000
- 7725 multiletter control sequences out of 15000+200000
- 14467 words of font info for 53 fonts, out of 3000000 for 9000
+ 5282 strings out of 493323
+ 72337 string characters out of 3139042
+ 143840 words of memory out of 3000000
+ 8699 multiletter control sequences out of 15000+200000
+ 42137 words of font info for 59 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 39i,8n,30p,477b,359s stack positions out of 5000i,500n,10000p,200000b,50000s
-{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/base/8r.enc}<C:/Program Files/M
-iKTeX 2.9/fonts/type1/bera/fvmr8a.pfb>
-Output written on 2018-1019-ArticuloPrueba.pdf (1 page, 11994 bytes).
+ 39i,8n,37p,477b,359s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/cormorantgaramond/cgrm_g7anru.e
+nc}<C:/Program Files/MiKTeX 2.9/fonts/type1/catharsis/cormorantgaramond/Cormora
+ntGaramond-Regular.pfb>
+Output written on 2018-1019-ArticuloPrueba.pdf (1 page, 44043 bytes).
 PDF statistics:
  11 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
